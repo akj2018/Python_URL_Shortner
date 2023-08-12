@@ -19,7 +19,6 @@ Don't have to remember long URLs
 ### Installing
 
 * Download Anaconda Installer for Mac/Windows/Linux and install with Path Environment Variable
-* Any modifications needed to be made to files/folders
 
 ### Executing program
 
