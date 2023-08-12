@@ -32,8 +32,6 @@ Don't have to remember long URLs
 
 ## Authors
 
-Contributors names and contact info and other details
-
 [Akshay Jain](https://www.linkedin.com/in/akshay-jain-2022)
 
 ## Version History
